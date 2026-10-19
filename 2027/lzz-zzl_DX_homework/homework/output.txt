@@ -1,0 +1,15 @@
+date:
+2026年 10月 20日 星期二 10:49:58 CST
+history 10:
+ 1043  cd homewordDx/
+ 1044  cd homework/
+ 1045  ./last_10_cmd.sh 
+ 1046  docker
+ 1047  docker ps
+ 1048  ls
+ 1049  cd ..
+ 1050  ls
+ 1051  cd homework/
+ 1052  ./hw_1.sh 
+notes_count:
+9 ../notes/test_notes.md
