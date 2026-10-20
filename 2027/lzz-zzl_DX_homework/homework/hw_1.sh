@@ -1,6 +1,6 @@
 touch output.txt
 
-NOTE_FILE="../notes/test_notes.md"
+NOTE_FILE="../notes/the_first_lesson.md"
 OUTPUT="./output.txt"
 
 echo "date:" > "$OUTPUT"
